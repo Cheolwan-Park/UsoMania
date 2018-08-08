@@ -1,0 +1,9 @@
+DerivedData/ModuleCache.noindex/
+DerivedData/UsoMania/Index/
+DerivedData/UsoMania/info.plist
+DerivedData/UsoMania/Logs/
+DerivedData/UsoMania/Build/Intermediates.noindex
+DerivedData/UsoMania/Build/Products/Release/Songs
+*.dSYM
+tmp/
+.DS_Store
